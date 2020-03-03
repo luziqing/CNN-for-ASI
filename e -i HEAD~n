@@ -1,0 +1,529 @@
+[33mcommit 9842b3567fb134fa4f0c2946d0096cb7cc9a968c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: luziqing <luziqing2004@gmail.com>
+Date:   Tue Mar 3 21:06:45 2020 +0800
+
+    CUDA10.1 or Pytorch1.0.1
+
+[33mcommit e6ffb30c085132f361f3862a6514187ac6fc84a5[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Uzaaft <muaf@nmbu.no>
+Date:   Wed Feb 12 20:55:40 2020 +0100
+
+    Updated Readme.MD to make setup easier
+
+[33mcommit e57f935ae417d30ae73f729a6c4dabfdedd6c035[m
+Author: Uzaaft <muaf@nmbu.no>
+Date:   Wed Feb 12 19:41:27 2020 +0100
+
+    Added anaconda requirement file
+
+[33mcommit 26592bd281ecb615d0feb882ca427be212517a6e[m
+Author: Uzaaft <muaf@nmbu.no>
+Date:   Wed Feb 12 19:37:30 2020 +0100
+
+    Added git ignore
+
+[33mcommit f223f3251cbbbf24f58b854d0e8aac92d9cf59ec[m
+Author: Uzaaft <48220549+Uzaaft@users.noreply.github.com>
+Date:   Fri Jan 17 12:59:13 2020 +0100
+
+    Update REQUIREMENTS.txt
+
+[33mcommit 96f600983f9b6daf0e2e619abbce1e1d548350f3[m
+Author: Uzaaft <48220549+Uzaaft@users.noreply.github.com>
+Date:   Fri Jan 17 12:58:53 2020 +0100
+
+    Update train.py
+    
+    Changed line 98 to fix Issue nr #12
+
+[33mcommit 78523e9fd50e172743d389c5f6876b4dadb5015e[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Aug 28 08:28:37 2019 +0200
+
+    Update README.md
+
+[33mcommit 856ac6cd0d7519ee1b20088d0c10201df18c55c2[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Aug 28 08:28:00 2019 +0200
+
+    Create REQUIREMENTS.txt
+
+[33mcommit 89bcc163c20d29923d4fe2df76231fe1650b4c4a[m
+Merge: 6f985cc 2fcf7cc
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Aug 28 08:26:24 2019 +0200
+
+    Merge pull request #15 from maxkazmsft/maxkaz/contrib_ddp
+    
+    Fully distributed multi-process version of test.py called test_parallel.py
+
+[33mcommit 2fcf7cc0254d9e2c1ecbcd7acccc8ab09e2a5b5d[m
+Author: Max Kaznady <maxkaz@microsoft.com>
+Date:   Tue Aug 27 18:25:26 2019 -0400
+
+    DDP: contributing fully-distributed implementation of test_parallel.py
+
+[33mcommit 26952ac405e6988973977c2c1d6c2b18b350df3d[m
+Merge: b497ce1 6f985cc
+Author: maxkazmsft <maxkaz@microsoft.com>
+Date:   Tue Jul 2 18:19:49 2019 +0000
+
+    Merge pull request #1 from waldeland/master
+    
+    syncing to latest changes on fork master
+
+[33mcommit 6f985cccecf9a811565d0b7cd919412569a22b7b[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon May 27 07:51:49 2019 +0200
+
+    Update test_parallel.py
+
+[33mcommit 8d5f71c3af4e3b1a796131b5734e1da846db374d[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon May 27 07:49:07 2019 +0200
+
+    Update README.md
+
+[33mcommit 23b13fd3a6cef612f4d40de5e8d07e961fcc14e5[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon May 27 07:46:20 2019 +0200
+
+    Bugfix
+
+[33mcommit 7d7c5798e0bd42eaa03144e417cd43d713d8f761[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon May 27 07:45:24 2019 +0200
+
+    Bugfix
+
+[33mcommit dbecf72a71d2e901d11b4afc7ac1eed53bb57257[m
+Merge: b497ce1 7527a7d
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon May 27 07:44:21 2019 +0200
+
+    Merge pull request #13 from maxkazmsft/maxkaz/contrib
+    
+    maxkaz/contrib
+
+[33mcommit 7527a7d511bd3fdca4222d3b19e82fdc471700d4[m
+Author: Max Kaznady <maxkaz@microsoft.com>
+Date:   Sun May 19 17:14:20 2019 -0400
+
+    fixed bad merge
+
+[33mcommit db5c1c685df4ca496ef845ee78eb0b6f965155d4[m
+Author: Max Kaznady <maxkaz@microsoft.com>
+Date:   Sun May 19 16:44:45 2019 -0400
+
+    comment cleanup
+
+[33mcommit 54418c3a73e1795ff96a6130c05094d37c7d4686[m
+Author: Max Kaznady <maxkaz@microsoft.com>
+Date:   Sun May 19 16:41:58 2019 -0400
+
+    cleaned up the branch for contribution
+
+[33mcommit 5e31a4db1fcc8eb49797eaee8b5c62c587a7a3a8[m
+Author: Max Kaznady <maxkaz@microsoft.com>
+Date:   Fri May 17 20:50:30 2019 -0400
+
+    SEG: first commit of parallel attempt and plots.
+
+[33mcommit b497ce17c1ee0f0499eba459eba85e263ca522c3[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Sat Nov 17 23:44:55 2018 +0100
+
+    Added accuracy to tensorboard output.
+
+[33mcommit 9a13b2ead5387b5be1af586f0642d00ae5cbab76[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Sat Nov 17 18:09:59 2018 +0100
+
+    Added posibillity to have more than two classes
+
+[33mcommit c52d1ffb04eb585754c08f0d37743dc8f1b91618[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Sat Nov 17 18:08:10 2018 +0100
+
+    Bugfix: Lower tolerance in label-img parsing
+
+[33mcommit 17f79ff352f55071c645656cde5542b17cd1dd58[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Sat Nov 17 18:00:00 2018 +0100
+
+    A small update to the previous commit
+
+[33mcommit 6782620870d517b4412382f7ee2281ff24b04026[m
+Merge: 996cc66 ea0a63e
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 17 17:36:30 2018 +0100
+
+    Merge pull request #9 from markspec/master
+    
+    Bug fixes to enable CPU based computation
+
+[33mcommit ea0a63ecc732cc35be31800bde2480154566e23c[m
+Merge: 17fed5a 996cc66
+Author: Mark Roberts <mark.roberts@spectrumgeo.com>
+Date:   Thu Nov 15 10:06:05 2018 -0600
+
+    Merge branch 'master' of https://github.com/waldeland/CNN-for-ASI
+
+[33mcommit 17fed5ab6324240dbcbd80f672496f18e7e4c1af[m
+Author: Mark Roberts <mark.roberts@spectrumgeo.com>
+Date:   Thu Nov 15 09:51:53 2018 -0600
+
+    Bug fixes to enable the workflow to be run using CPU not GPU.
+
+[33mcommit 996cc6629a532e3ccb983a5dcbb676710317e55c[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Mon Oct 1 21:18:34 2018 +0200
+
+    Added new file
+
+[33mcommit b517003df776de29857832547073d0708412e495[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Mon Oct 1 21:16:38 2018 +0200
+
+    Renamed tensorboard file to avoid conflict
+
+[33mcommit a96719a7c8667d50e69ec15466a978d81d46c5ce[m
+Merge: 14ba0d9 0c711d7
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon Oct 1 18:50:58 2018 +0200
+
+    Merge pull request #8 from EarthScienceAnalytics/labels-dont-divide-into-batchsize
+    
+    capping class_ind value to avoid rounding error forcing class_ind to …
+
+[33mcommit 0c711d7afe04686f7544d5154d363ee511fa0141[m
+Author: Steve Purves <stevejpurves@gmail.com>
+Date:   Mon Oct 1 15:25:21 2018 +0100
+
+    capping class_ind value to avoid rounding error forcing class_ind to be higher than exists
+
+[33mcommit 14ba0d9f826df4aafcbe2884511394924ff5756c[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Fri Sep 28 16:18:22 2018 +0200
+
+    Update README.md
+
+[33mcommit a86c29ce05d9f5309ca3f81e1ce353cc574575e3[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Fri Sep 28 16:17:33 2018 +0200
+
+    Added link to youtube EAGE E-Lecture
+
+[33mcommit b59bf4f896b3dbbe683f58c2a0020801dfb5475e[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Jul 4 08:47:25 2018 +0200
+
+    Added link to paper
+
+[33mcommit b6873c91357bfb7a96c8ecb6751fb4cda37e38cb[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Jul 4 08:46:50 2018 +0200
+
+    Update README.md
+
+[33mcommit 9f3a2933acb3da40f528b8d6120daeda71c052d7[m
+Author: andersuw <anders@nr.no>
+Date:   Wed Jun 20 13:40:20 2018 +0200
+
+    Bugfix in writeSEGYio
+
+[33mcommit 8b8fb539a3d69784a8391008af4b699ad08c87b4[m
+Author: andersuw <anders@nr.no>
+Date:   Tue Jun 19 15:29:26 2018 +0200
+
+    Small update in printing functionality
+
+[33mcommit a23b9ebbc0f89c1b535bf54c75b55efcd529808c[m
+Author: andersuw <anders@nr.no>
+Date:   Tue Jun 19 15:17:55 2018 +0200
+
+    Fixed bug in writeSEGY()
+
+[33mcommit 341bf8d8f95fb4b5b5099c513b7f906bc0b60e9e[m
+Author: andersuw <anders@nr.no>
+Date:   Tue Jun 19 11:58:32 2018 +0200
+
+    - Bug fix in writeSEGY
+    - Added some print statements for better readability
+
+[33mcommit 471104d89c41eac693d2f5352c484f8937a6baad[m
+Author: andersuw <anders@nr.no>
+Date:   Mon Jun 18 09:33:25 2018 +0200
+
+    Updated setup instructions
+
+[33mcommit 15b59b21e59e7d981c4fb2a14afa7d489b361152[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Fri Jun 15 19:04:40 2018 +0200
+
+    Update README.md
+    
+    Updated article referance
+
+[33mcommit 04c77c9425069c841fb765f717b1462123bc29c9[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed May 30 14:50:28 2018 +0200
+
+    Bugfix for writing predictions to SEGY
+
+[33mcommit 1ea854d48b13ea3618dff76eb64d08676a2dad4c[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed May 2 09:02:58 2018 +0200
+
+    Update README.md
+
+[33mcommit 370846cd18e11df7b0b60cd40c97f1700640d603[m
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed May 2 09:00:21 2018 +0200
+
+    Update texture_net.py
+    
+    Bugfix
+
+[33mcommit c74db2e8518102098e4aece91c4763d18f4f7986[m
+Merge: cac221d d9b9ea1
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue May 1 15:08:14 2018 +0200
+
+    Merge pull request #4 from JesperDramsch/compatibility
+    
+    Compatibility with windows and Py3
+
+[33mcommit cac221d9f74ccbe42123bd25786adf1943b47572[m
+Merge: fa2683d 5e445e9
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Tue May 1 15:05:13 2018 +0200
+
+    Merge branch 'master' of https://github.com/waldeland/CNN-for-ASI
+    
+    # Conflicts:
+    #       texture_net.py
+
+[33mcommit fa2683d615db0b6cd2bc1c1f9b9f830fa1bb8d6f[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Tue May 1 15:02:48 2018 +0200
+
+    Updates to network configuration
+
+[33mcommit 5e445e9c5b6c137d96f4a1bb7c58fcf412695add[m
+Merge: cc06c3f 9f0c562
+Author: Anders U. Waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Apr 25 09:16:29 2018 +0200
+
+    Merge pull request #3 from JesperDramsch/patch-1
+    
+    Tensorboard uint8 input
+
+[33mcommit d9b9ea1393f22e9535fefac88a3343c29f726da2[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:35:28 2018 +0100
+
+    Minor edits from test run
+
+[33mcommit 7f685224c80a082cda0f4260ae967aca99d52702[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:31:22 2018 +0100
+
+    Imports from future
+
+[33mcommit 6bfb303a98ea385382345e78237dbb69c5f2745d[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:25:48 2018 +0100
+
+    mend
+
+[33mcommit 4750540a9423938663083b2471ce1b3a83eaf87f[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:24:16 2018 +0100
+
+    Dict iteration
+
+[33mcommit 79fca1ad261d6ba55a46ef1717ad0fea28374fca[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:23:03 2018 +0100
+
+    StringIO -> BytesIO
+
+[33mcommit d1ae25e71ef2ef6fa4de9351a232832635548d3f[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:21:09 2018 +0100
+
+    Print statements and integer division
+
+[33mcommit f9128ee8e4e9d2cd589e675e22decdafdff0ab74[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Fri Mar 16 15:13:28 2018 +0100
+
+    Windows
+
+[33mcommit 9f0c5622ff1352b881f2f7891cacfbaff5d4f888[m
+Author: Jesper Dramsch <jesper@dramsch.net>
+Date:   Mon Mar 12 18:52:47 2018 +0100
+
+    Tensorboard uint8 input
+    
+    Input for Tensorboard image summarios should be unsigned int8. Then the images look nice.
+
+[33mcommit cc06c3fa83f6b8aa5e9be1c82174b47b465dfc95[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue Nov 14 15:17:37 2017 +0100
+
+    Update texture_net.py
+
+[33mcommit fa286a6c5e30f163ca311c3bafe3e6221e593b3b[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Sat Nov 11 16:52:28 2017 +0100
+
+    Updating readme
+
+[33mcommit 1cc2a411f6b7340d92372d567063e4e77ea45bf8[m
+Author: Anders U. Waldeland <uelananders@gmail.com>
+Date:   Sat Nov 11 16:03:59 2017 +0100
+
+    Code and labels for F3 data set
+
+[33mcommit d19461d16036dee76262589b70fe89067225a9c6[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:59:57 2017 +0100
+
+    Update LICENSE
+
+[33mcommit 63afba8253efbc9a8d385165d96823f4c151ea5f[m
+Merge: d46671d 0ba0f67
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:58:18 2017 +0100
+
+    Merge pull request #1 from waldeland/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 0ba0f675e9e415751104f948ff0247bffa719f8a[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:57:46 2017 +0100
+
+    Create LICENSE
+
+[33mcommit d46671da87383a1ed096ae5154949ae3ddcfa91e[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:51:56 2017 +0100
+
+    Delete LICENSE-md
+
+[33mcommit 88c782c0f48c697f60cd803b438d9242aef09294[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:51:46 2017 +0100
+
+    Create LICENSE-md
+
+[33mcommit 2e10771a54fca89c486cfdf1421b5cea1732b19e[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:51:32 2017 +0100
+
+    Delete LICENSE
+
+[33mcommit 354627f03467ceacd299e086c39f8274d5121fe5[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:48:40 2017 +0100
+
+    Update README.md
+
+[33mcommit e76d8496465c3cd1398cfabde00626dbb5f9278f[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:48:29 2017 +0100
+
+    Update README.md
+
+[33mcommit 5be7da853a4ac30cf444a88ae1844b5724b84bac[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:47:04 2017 +0100
+
+    Update README.md
+
+[33mcommit 69b1aae035f4fd11b5f9778016d3f1c547865c82[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:42:33 2017 +0100
+
+    Update README.md
+
+[33mcommit 8e8ef45a0130033d500505b867f3de576282cf03[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:31:03 2017 +0100
+
+    Update README.md
+
+[33mcommit f093dd7a14e7d61317443bc3678de3a0551e496a[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:29:57 2017 +0100
+
+    Update README.md
+
+[33mcommit a125c2634280c53560f88642c79de0c83c633c05[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:29:47 2017 +0100
+
+    Update README.md
+
+[33mcommit ed6b3f665431034dab21a6dde14f0a77788cfd17[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:27:08 2017 +0100
+
+    Update README.md
+
+[33mcommit dcaffa2fd18528b53d47a3f75b577fb1efdeaed6[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Sat Nov 11 14:22:13 2017 +0100
+
+    Update README.md
+
+[33mcommit fbde006209c9ac14d3d22eadc0345e67b30b2ad7[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Nov 1 09:26:36 2017 +0100
+
+    Update README.md
+
+[33mcommit 480e89d68445d8ca7de65743dd166c7b46a12afb[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Wed Nov 1 09:26:02 2017 +0100
+
+    Update README.md
+
+[33mcommit e2e59c5f93aa3165d4c597d1b3779a7113c24a43[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue Oct 10 21:53:32 2017 +0200
+
+    Update README.md
+
+[33mcommit 0a3d4623fd4a2ea80a4f000dc80adcaa6f431853[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue Oct 10 21:52:44 2017 +0200
+
+    Update README.md
+
+[33mcommit d6f2366f0c754013c041162aa678f29b14180cd1[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue Oct 10 21:52:10 2017 +0200
+
+    Update README.md
+
+[33mcommit 3a5b1d07196b8435bb73ab9f4d6666bae45aef7c[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue Oct 10 19:03:48 2017 +0200
+
+    Update README.md
+
+[33mcommit 9d6a4396d891679ca78530672a14cb3d996a1da3[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Tue Oct 10 19:02:28 2017 +0200
+
+    Update README.md
+
+[33mcommit 2036e2b029243f499d7aa160d87e89df20d51e56[m
+Author: waldeland <32647204+waldeland@users.noreply.github.com>
+Date:   Mon Oct 9 18:36:44 2017 +0200
+
+    Update README.md
